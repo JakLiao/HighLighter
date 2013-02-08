@@ -1,0 +1,7 @@
+#注释符号为#
+#此为需要转换为Html的后缀名,用','格开,注意区分大小写
+extension=java,sql,h,sh
+#此为需要转换的源码路径,递归查找该目录下的源码文件
+sourceCode=./src
+#此为源码转换为Html后的输出路径,拥有递归功能
+htmlCode=./bin
